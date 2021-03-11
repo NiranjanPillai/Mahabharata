@@ -1,0 +1,23 @@
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+body { 
+    background-color: #ff9966
+}
+
+head { 
+    background-color: #ffbb99
+}
+.myJumbotron {
+   background-color: #E64545;
+}
+
+p.indent {
+    text-indent: 30px;
+}
+a {
+  color: #ffbb99;
+  
+}
